@@ -16,7 +16,7 @@ Built using **React (frontend)**.
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js, React Router, Context API
-- **Styling:** Tailwind CSS
+- **Styling:** BOOTSTRAP, CSS
 - **Deployment:** Vercel
 
 ---
