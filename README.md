@@ -23,5 +23,5 @@ Built using **React (frontend)**.
 ##  Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/username/book-store.git
+   git clone https://github.com/velpulasunil93/book-store.git
    cd book-store
